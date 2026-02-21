@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../CursoJava10x/CursoJava10x.iml" filepath="$PROJECT_DIR$/../../CursoJava10x/CursoJava10x.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Desafio1/Desafio2.iml" filepath="$PROJECT_DIR$/../../Desafio1/Desafio2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../J10x/J10x.iml" filepath="$PROJECT_DIR$/../../J10x/J10x.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../JavaNinja/JavaNinja.iml" filepath="$PROJECT_DIR$/../../JavaNinja/JavaNinja.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Jvninja/Jvninja.iml" filepath="$PROJECT_DIR$/../../Jvninja/Jvninja.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../UEC/UEC.iml" filepath="$PROJECT_DIR$/../../UEC/UEC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uniao.iml" filepath="$PROJECT_DIR$/uniao.iml" />
+    </modules>
+  </component>
+</project>
